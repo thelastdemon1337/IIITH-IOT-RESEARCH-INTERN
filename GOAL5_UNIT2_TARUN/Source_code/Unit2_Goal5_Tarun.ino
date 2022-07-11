@@ -13,7 +13,7 @@ HTTPClient http;
 
 // Step 2:
 #define MAIN_SSID "Tarun2.4g"
-#define MAIN_PASS "Remastered1!"
+#define MAIN_PASS "P@$$phraseis!supposed2be->closed!"
 #define CSE_IP      "192.168.1.2" //change this
 #define CSE_PORT    8080
 // #define HTTPS     false
